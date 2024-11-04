@@ -4,7 +4,7 @@ package studio6;
  * @author Dennis Cosgrove (http://www.cse.wustl.edu/~cosgroved/)
  */
 public class IterativeMethods {
-
+	
 	/**
 	 * Computes the geometric sum for the first n terms in the series
 	 * 
